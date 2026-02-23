@@ -29,6 +29,14 @@ const TOOLS = [
     accent: "from-violet-500/10 to-indigo-500/5",
     borderHover: "hover:border-violet-200",
   },
+  {
+    href: "/enc-dec",
+    name: "Encryption & Decryption",
+    description: "AES encrypt/decrypt with password · PBKDF2 · client-side only",
+    icon: "🔐",
+    accent: "from-sky-500/10 to-blue-500/5",
+    borderHover: "hover:border-sky-200",
+  },
 ];
 
 export default function Home() {
