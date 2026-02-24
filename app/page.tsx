@@ -37,6 +37,14 @@ const TOOLS = [
     accent: "from-sky-500/10 to-blue-500/5",
     borderHover: "hover:border-sky-200",
   },
+  {
+    href: "/qrcode-generator",
+    name: "QR Code Generator",
+    description: "Generate and decode QR codes · Custom colors · Client-side only",
+    icon: "📱",
+    accent: "from-emerald-500/10 to-cyan-500/5",
+    borderHover: "hover:border-emerald-200",
+  },
 ];
 
 export default function Home() {
